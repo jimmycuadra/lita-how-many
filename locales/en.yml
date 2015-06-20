@@ -1,0 +1,6 @@
+en:
+  lita:
+    handlers:
+      how_many:
+        bound_error: >-
+          lita-how-many: upper_bound (%{upper}) must be greater than lower_bound (%{lower}).
